@@ -5,3 +5,7 @@ function changeText() {
 function changeColor() {
   document.getElementById("para2").style.color = "yellow";
 }
+
+// function changehisab() {
+//   document.getElementById("para2").style.color = "blue";
+// }
